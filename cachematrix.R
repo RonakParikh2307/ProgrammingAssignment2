@@ -1,3 +1,5 @@
+# SHA-1 hash identifier = e56407d4737de646a60279323a4cd25123d2818b
+
 ## The two functions below, makeCacheMatrix and cacheSolve, caches the inverse of a matrix.
 
 ## This function creates a special "matrix" object that can cache its inverse.
